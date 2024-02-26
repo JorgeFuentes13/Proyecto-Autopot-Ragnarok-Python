@@ -1,0 +1,1 @@
+-Práctica de python, lectura de memoria de un juego.
